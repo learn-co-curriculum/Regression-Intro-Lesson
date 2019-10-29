@@ -1,5 +1,5 @@
 
-# Brick 7: Linear Relationships and Prediction
+# Linear Relationships and Prediction
 
 **Course**: Data Science   <br/>
 **Mod**: 1 <br/>
@@ -40,6 +40,7 @@ Students will be able to:
 Theoretical underpinnings of mathematical methods are not important to grasp for the practicing data scientist.
 
 #### Materials
+
 Anscombe's Quartet: https://www.desmos.com/calculator/paknt6oneh
 
 Playing with the Regression Line: https://www.desmos.com/calculator/jwquvmikhr
@@ -48,7 +49,8 @@ Slides on Linear Regression: https://docs.google.com/presentation/d/1mC-049woTZ2
 
 Jupyter notebook: linear_relationships_and_prediction
 
-dataset on buses and population?
+Supplemental:
+	* Dataset on buses and population?
 
 ***
 
